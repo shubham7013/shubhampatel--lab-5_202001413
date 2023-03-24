@@ -14,7 +14,7 @@ Static Analysis:
 To perform the above analysis I have used python files from github repository and used pylint to do static analysis for the files.
 
 Repository that i have used for static analysis:
-https://github.com/shubham7013/SE_lab_202001413.git
+https://github.com/shubham7013/SE_lab_202001413/.git
 
 Pylint 
 
